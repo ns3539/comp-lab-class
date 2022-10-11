@@ -41,3 +41,4 @@ Using 1 MPI process
 Non-default thread affinity set, disabling internal thread affinity
 starting mdrun 'LYSOZYME in water'
 25000000 steps,  50000.0 ps.
+slurmstepd: error: *** JOB 25382080 ON cs017 CANCELLED AT 2022-09-23T16:07:01 DUE TO TIME LIMIT ***
